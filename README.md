@@ -38,12 +38,10 @@ AI framework analyzing coal transition readiness using SDG-based metrics.
 Blockchain + AI system for verifying patent uniqueness and recording results on-chain.  
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujwal373&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujwal373&theme=tokyo-night&hide_border=true" alt="Ujwal's GitHub Activity Graph" width="98%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ujwal373&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=ujwal373&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
@@ -51,19 +49,19 @@ Blockchain + AI system for verifying patent uniqueness and recording results on-
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ujwal373&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujwal373&theme=tokyo-night&hide_border=true" alt="Ujwal's GitHub Activity Graph" width="98%"/>
 </p>
-
----
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujwal373&theme=tokyonight" alt="Profile Details" width="98%"/>
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ujwal373&theme=onedark&margin-w=10&margin-h=10" width="98%"/>
 </p>
 
 ---
+
 
 ## 🌐 Cloud Profile  
 🔗 [View my Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles)  
