@@ -43,7 +43,7 @@ Blockchain + AI system for verifying patent uniqueness and recording results on-
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujwal373&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=ujwal373&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
