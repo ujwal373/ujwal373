@@ -50,6 +50,11 @@ Blockchain + AI system for verifying patent uniqueness and recording results on-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujwal373&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/ujwal373/github-metrics/blob/main/github-metrics.svg" alt="Metrics" width="90%">
+</p>
+
+
 ---
 
 <p align="center">
