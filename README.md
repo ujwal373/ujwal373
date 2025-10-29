@@ -51,9 +51,8 @@ Blockchain + AI system for verifying patent uniqueness and recording results on-
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ujwal373&theme=tokyonight&hide_border=true" height="150"/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=ujwal373)](https://git.io/streak-stats)
 </p>
-
 
 ---
 
