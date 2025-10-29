@@ -38,9 +38,6 @@ AI framework analyzing coal transition readiness using SDG-based metrics.
 Blockchain + AI system for verifying patent uniqueness and recording results on-chain.  
 
 ---
-
-## 📊 Interactive Dashboard  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ujwal373&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujwal373&theme=tokyonight&hide_border=true" height="150"/>
@@ -52,11 +49,9 @@ Blockchain + AI system for verifying patent uniqueness and recording results on-
 
 ---
 
-## 🌟 More Interactive Boards  
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujwal373&theme=tokyonight" alt="Profile Details" width="98%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ujwal373&theme=onedark&margin-w=10&margin-h=10" alt="Trophies" width="98%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ujwal373&theme=onedark&margin-w=10&margin-h=10" width="98%"/>
 </p>
 
 ---
