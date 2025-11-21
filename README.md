@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Ujwal Mojidra  
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ujwal373&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
 🎓 MSc in Data & Computational Science @ **University College Dublin**  
 💡 Passionate about **Data Science | AI | Cloud-driven innovation**  
 🌱 Exploring **Agentic AI** frameworks & **Sustainable AI** applications  
