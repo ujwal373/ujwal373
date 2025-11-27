@@ -1,8 +1,4 @@
-# 👋 Hi, I'm Ujwal Mojidra  
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ujwal373.ujwal373&left_color=navy&right_color=purple" alt="visitors"/>
-</p>
+# 👋 Hi, I'm Ujwal Mojidra  <p> <img src="https://visitor-badge.laobi.icu/badge?page_id=ujwal373.ujwal373&left_color=navy&right_color=purple" alt="Profile Views"/> </p>
 
 🎓 MSc in Data & Computational Science @ **University College Dublin**  
 💡 Passionate about **Data Science | AI | Cloud-driven innovation**  
