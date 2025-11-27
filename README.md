@@ -1,4 +1,10 @@
 # 👋 Hi, I'm Ujwal Mojidra 
+<p>
+  <img 
+    src="https://visitor-badge.laobi.icu/badge?page_id=ujwal373&title=Profile%20Views" 
+    alt="Profile Views"
+  />
+</p>
 
 🎓 MSc in Data & Computational Science @ **University College Dublin**  
 💡 Passionate about **Data Science | AI | Cloud-driven innovation**  
@@ -61,12 +67,6 @@ Blockchain + AI system for verifying patent uniqueness and recording results on-
 
 ## 🌐 Cloud Profile  
 🔗 [View my Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles)  
-<p align="center">
-  <img 
-    src="https://visitor-badge.laobi.icu/badge?page_id=ujwal373&title=Profile%20Views" 
-    alt="Profile Views"
-  />
-</p>
 ---
 
 ✨ *Exploring the world of AI one dataset at a time — always open to new collaborations!*  
