@@ -61,7 +61,13 @@ Blockchain + AI system for verifying patent uniqueness and recording results on-
 
 ## 🌐 Cloud Profile  
 🔗 [View my Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles)  
-<p> <img src="https://visitor-badge.laobi.icu/badge?page_id=ujwal373.ujwal373&left_color=navy&right_color=purple" alt="Profile Views"/> </p>
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=ujwal373&label=Profile%20Views&color=blueviolet&style=flat"
+    alt="Profile Views"
+  />
+</p>
+
 ---
 
 ✨ *Exploring the world of AI one dataset at a time — always open to new collaborations!*  
