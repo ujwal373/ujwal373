@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ujwal Mojidra  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ujwal373&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ujwal373.ujwal373&left_color=navy&right_color=purple" alt="visitors"/>
 </p>
 
 🎓 MSc in Data & Computational Science @ **University College Dublin**  
