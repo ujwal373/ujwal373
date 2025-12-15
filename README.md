@@ -69,8 +69,6 @@ Agent-based sustainability mentor combining analytics, reasoning agents, and dec
 
 ---
 
-### ☕ Daily Dev Humor  
-
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Daily Dev Joke"/>
 </p>
