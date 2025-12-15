@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Ujwal Mojidra 
+# 👋 Hi, I'm Ujwal Mojidra  
+
 <p>
   <img 
     src="https://visitor-badge.laobi.icu/badge?page_id=ujwal373&title=Profile%20Views" 
@@ -7,8 +8,11 @@
 </p>
 
 🎓 MSc in Data & Computational Science @ **University College Dublin**  
-💡 Passionate about **Data Science | AI | Cloud-driven innovation**  
-🌱 Exploring **Agentic AI** frameworks & **Sustainable AI** applications  
+💡 Working at the intersection of **Data Science, AI, and Cloud systems**  
+🌱 Currently exploring **Agentic AI**, **Optimization workflows**, and **Sustainable AI applications**
+
+> I enjoy building systems where data makes decisions,  
+> models explain themselves, and code survives production.
 
 ---
 
@@ -29,21 +33,30 @@
 
 ## 🚀 About Me  
 
-- 🌍 Building projects in **Sustainability Analytics**, **Web3**, and **AI for Good**  
-- ⚡ Skilled in **Data Analysis, ML, and Cloud-based deployments**  
-- 🤝 Open to **collaboration, research, and innovation**  
+- 🌍 Building projects across **Research & Analytics**, **Web3**, and **AI for Good**  
+- ⚡ Strong in **EDA, ML pipelines, dashboards, and cloud-based deployments**  
+- 🧠 Comfortable owning the **full data workflow** — from raw data to decision-ready outputs  
+- 🤝 Always open to **collaboration, hackathons, and applied research**
 
 ---
 
 ## 📌 Featured Projects  
 
-🔹 **[Future Viability Index (FVI)](https://github.com/ujwal373/future-viability-index)** —  
-AI framework analyzing coal transition readiness using SDG-based metrics.  
+🔹 **[Future Viability Index (FVI)](https://github.com/ujwal373/future-viability-index)**  
+AI-powered framework assessing coal transition readiness using SDG-aligned sustainability metrics.
 
-🔹 **[Patent Verification dApp](https://github.com/ujwal373/patent-verification)** —  
-Blockchain + AI system for verifying patent uniqueness and recording results on-chain.  
+🔹 **[EcoMentor – Multi-Agent AI System](https://github.com/ujwal373/EcoMentor-Multiagent)**  
+Agent-based sustainability mentor combining analytics, reasoning agents, and decision support.
+
+🏆 **[Superteam Student Sprint](https://github.com/ujwal373/Superteam-Student-Sprint)**  
+**Bounty Winner** — Built during the Superteam ecosystem sprint, focused on rapid Web3 experimentation.
+
+🏆 **[Superteam Ireland Telegram Bot](https://github.com/ujwal373/Superteam-Ireland-Telegram-Bot)**  
+**Bounty Winner** — Telegram bot for community updates, events, and ecosystem engagement.
 
 ---
+
+## 📊 Coding Activity  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ujwal373&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
@@ -56,9 +69,25 @@ Blockchain + AI system for verifying patent uniqueness and recording results on-
 
 ---
 
+### ☕ Daily Dev Humor  
 
-## 🌐 Cloud Profile  
-🔗 [View my Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles)  
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Daily Dev Joke"/>
+</p>
+
 ---
 
-✨ *Exploring the world of AI one dataset at a time — always open to new collaborations!*  
+## 🌐 Connect & Profiles  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ujwal-mojidra-28098723a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ujwal%20Mojidra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.skills.google/public_profiles/23ec8bf9-3116-4ea3-865a-d0811a56a26e" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Cloud-Skills%20Profile-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+✨ *Still learning. Still building. Occasionally refactoring life along with code.*  
