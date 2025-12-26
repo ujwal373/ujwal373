@@ -99,6 +99,7 @@ Agent-based sustainability mentor combining analytics, reasoning agents, and dec
   />
 </p>
 
+<p align="center">
   <img 
     src="https://streak-stats.vercel.app/?user=ujwal373&theme=tokyonight&hide_border=true"
     height="150"
