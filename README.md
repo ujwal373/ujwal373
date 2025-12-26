@@ -81,8 +81,24 @@ Agent-based sustainability mentor combining analytics, reasoning agents, and dec
 ## 📊 Coding Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujwal373&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujwal373&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujwal373&theme=tokyonight"
+    width="98%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ujwal373&theme=tokyonight"
+    height="150"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ujwal373&theme=tokyonight"
+    height="150"
+  />
+</p>
+
   <img 
     src="https://streak-stats.vercel.app/?user=ujwal373&theme=tokyonight&hide_border=true"
     height="150"
