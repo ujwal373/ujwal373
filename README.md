@@ -19,15 +19,37 @@
 ## 🛠️ Tech Snapshot  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/> 
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat-square"/> 
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat-square"/> 
-  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square"/> 
-  <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white&style=flat-square"/> 
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat-square"/> 
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square"/> 
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square"/> 
+  <!-- Core Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/SAS-1A7BBA?logo=sas&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square"/>
 </p>
+
+<p align="center">
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/MS%20Power%20Platform-742774?logo=power-platform&logoColor=white&style=flat-square"/>
+</p>
+
+<p align="center">
+  <!-- AI / Agentic -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Claude-000000?logo=anthropic&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangGraph-2E86C1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF6F00?style=flat-square"/>
+</p>
+
+<p align="center">
+  <!-- Viz / Apps -->
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square"/>
+</p>
+
 
 ---
 
