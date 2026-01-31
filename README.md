@@ -65,7 +65,7 @@
 ## 📌 Featured Projects  
 
 🔹 **[Future Viability Index (FVI)](https://github.com/ujwal373/future-viability-index)**  
-AI-powered framework assessing coal transition readiness using SDG-aligned sustainability metrics.
+Statistical & AI-powered framework assessing coal transition readiness using SDG-aligned sustainability metrics.
 
 🔹 **[EcoMentor – Multi-Agent AI System](https://github.com/ujwal373/EcoMentor-Multiagent)**  
 Agent-based sustainability mentor combining analytics, reasoning agents, and decision support.
