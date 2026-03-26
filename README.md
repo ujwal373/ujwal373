@@ -9,7 +9,7 @@
 
 🎓 MSc in Data & Computational Science @ **University College Dublin**  
 💡 Working at the intersection of **Data Science, AI, and Cloud Technology with Agentic Touch**  
-🌱 Currently exploring **Agentic AI**, **Optimization workflows**, and **Agentic AI applications**
+🌱 Currently exploring **Agentic AI**, **Optimization workflows**, and **Agentic AI fundamentals**
 
 > I enjoy building systems where data makes decisions,  
 > models explain themselves, and code survives in production.
