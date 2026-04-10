@@ -13,8 +13,8 @@
 
 🌱 Currently exploring **Agentic AI**, **Optimization workflows**, and **Agentic AI fundamentals**
 
-> **I enjoy building systems where data makes decisions,**  
-> **models explain themselves, and code survives in production.**
+> I enjoy building systems where data makes decisions,
+> models explain themselves, and code survives in production.
 
 ---
 
