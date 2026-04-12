@@ -9,7 +9,7 @@
 
 🎓 MSc in Data & Computational Science @ **University College Dublin**  
 
-💡 Operating at the intersection of **Data Science, Artificial Intelligence, and Cloud Technology**, enhanced with an agent-driven approach.
+💡 Operating at the intersection of **Data Science, Artificial Intelligence, ML-OPs and Cloud Technology**, enhanced with an agent-driven approach.
 
 🌱 Currently exploring **Agentic AI**, **Optimization workflows**, and **Agentic AI fundamentals**
 
