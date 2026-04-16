@@ -11,7 +11,7 @@
 
 💡 Currently levaraging peaks at the intersection of **Data Science, Artificial Intelligence, ML-OPs and Cloud Technology**, enhanced with an agent-driven approach.
 
-🌱 Currently exploring **Agentic AI**, **Optimization workflows**, and **Agentic AI fundamentals**
+🌱 **Currently exploring** **Agentic AI**, **Optimization workflows**, and **Agentic AI fundamentals**
 
 > I enjoy building systems where data makes decisions,
 > models explain themselves, and code survives in production.
