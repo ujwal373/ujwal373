@@ -1,20 +1,30 @@
 # 👋 Hi, I'm Ujwal Mojidra  
 
-<p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=MSc+Data+%26+Computational+Science+%40+UCD;Data+Scientist+%7C+ML+Engineer+%7C+AI+Builder;Agentic+AI+%7C+MLOps+%7C+Cloud+Technology;Building+systems+where+data+makes+decisions+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <img 
     src="https://visitor-badge.laobi.icu/badge?page_id=ujwal373&title=Profile%20Views" 
     alt="Profile Views"
   />
 </p>
 
-🎓 MSc in Data & Computational Science @ **University College Dublin**  
-
-💡 Currently levaraging peaks at the intersection of **Data Science, Artificial Intelligence, ML-OPs and Cloud Technology**, enhanced with an agent-driven approach.
-
-🌱 **Currently exploring** **Agentic AI**, **Optimization workflows**, and **Agentic AI fundamentals**
-
 > I enjoy building systems where data makes decisions,
 > models explain themselves, and code survives in production.
+
+---
+
+## 🎵 Now Playing  
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 ---
 
@@ -52,7 +62,6 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square"/>
 </p>
 
-
 ---
 
 ## 🚀 About Me  
@@ -80,10 +89,17 @@ Agent-based sustainability mentor combining analytics, reasoning agents, and dec
 
 ---
 
+## ⏱️ WakaTime Coding Activity  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ujwal373&theme=tokyonight&layout=compact&hide_border=true" alt="Ujwal's WakaTime Stats"/>
+</p>
+
+---
+
 ## 📊 Coding Activity  
 
 <p align="center">
-  <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujwal373&theme=tokyonight"
     width="98%"
@@ -128,5 +144,6 @@ Agent-based sustainability mentor combining analytics, reasoning agents, and dec
 </p>
 
 ---
+
 
 ✨ *Still learning. Still building. Occasionally refactoring life along with code.*  
