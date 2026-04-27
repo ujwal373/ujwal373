@@ -85,17 +85,7 @@ Agent-based sustainability mentor combining analytics, reasoning agents, and dec
 **Bounty Winner** — Built during the Superteam ecosystem sprint, focused on rapid Web3 experimentation.
 
 🏆 **[Superteam Ireland Telegram Bot](https://github.com/ujwal373/Superteam-Ireland-Telegram-Bot)**  
-**Bounty Winner** — Telegram bot for community updates, events, and ecosystem engagement.
-
----
-
-## ⏱️ WakaTime Coding Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ujwal373&theme=tokyonight&layout=compact&hide_border=true" alt="Ujwal's WakaTime Stats"/>
-</p>
-
----
+**Bounty Winner** — Telegram bot for community updates, events, and ecosystem -
 
 ## 📊 Coding Activity  
 
