@@ -14,7 +14,7 @@
 </p>
 
 > I enjoy building systems where data makes decisions,
-> models explain themselves, and code survives at production level.
+> models explain themselves, and code survives at production.
 
 ---
 
