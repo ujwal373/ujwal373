@@ -129,14 +129,6 @@ Agent-based sustainability mentor combining analytics, reasoning agents, and dec
 
 ---
 
-## ⏱️ WakaTime Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ujwal373&theme=tokyonight&layout=compact&hide_border=true&langs_count=10" alt="Ujwal's WakaTime Stats"/>
-</p>
-
----
-
 ## 📊 Coding Activity  
 
 <p align="center">
