@@ -95,26 +95,26 @@
 
 ## 📌 Featured Projects
 
-🥇 **[Futuro — AI-Powered Health Insurance & Pension Planning Platform](https://github.com/saroshfarhan/Futuro/tree/main)**  
-**WINNER · €3,000** — A data platform analysing insurance and pension scenarios with structured decision support. Built ETL pipelines transforming unstructured inputs into analytics-ready datasets, scenario-based analytical frameworks, AI-assisted automation, and scalable backend services.  
+🔹 **[Futuro — AI-Powered Health Insurance & Pension Planning Platform](https://github.com/saroshfarhan/Futuro/tree/main)**  
+A data platform analysing insurance and pension scenarios with structured decision support. Built ETL pipelines transforming unstructured inputs into analytics-ready datasets, scenario-based analytical frameworks, AI-assisted automation, and scalable backend services.  
 `Python` `FastAPI` `LangChain` `LangGraph` `Vertex AI` `Supabase` `MLflow` `Next.js` `GCP Run`
 
 ---
 
 🥇 **[AstraAI — Multi-Agent Astronomical Spectral Analysis System](https://github.com/saroshfarhan/ad-astrAI)**  
-**WINNER · $500 USDC** — Multi-agent AI processing 10k+ records for astronomical research. Designed preprocessing/transformation/validation pipelines, applied statistical & predictive analytics with anomaly detection, supported ML models reaching 85%+ classification accuracy, and built reporting & visualisation tools. · [Demo ↗](https://youtu.be/Ygq1RNyGC3c)  
+**WINNER · €3,000** — Multi-agent AI processing 10k+ records for astronomical research. Designed preprocessing/transformation/validation pipelines, applied statistical & predictive analytics with anomaly detection, supported ML models reaching 85%+ classification accuracy, and built reporting & visualisation tools. · [Demo ↗](https://youtu.be/Ygq1RNyGC3c)  
 `Python` `LangGraph` `Streamlit` `FastAPI` `MLflow` `Gemini` `PyTorch` `Astropy` `GCP`
 
 ---
 
 🏆 **[Superteam Onboarding AI Portal — Solana Foundation Bounty](https://github.com/ujwal373/Superteam-Student-Sprint)**  
-**WINNER · $100 USDC** — Data processing system classifying & structuring 200+ records into analytics-ready datasets. Designed ETL workflows with validation/governance, performed exploratory & trend analysis, and shipped dashboards delivering actionable insights. · [Demo ↗](https://www.youtube.com/watch?v=O50Qa96UIIA)  
+**WINNER · $500 USDC** — Data processing system classifying & structuring 200+ records into analytics-ready datasets. Designed ETL workflows with validation/governance, performed exploratory & trend analysis, and shipped dashboards delivering actionable insights. · [Demo ↗](https://www.youtube.com/watch?v=O50Qa96UIIA)  
 `Python` `Streamlit` `OpenAI`
 
 ---
 
 🏆 **[Superteam Ireland Telegram Bot — Community RAG Assistant](https://github.com/ujwal373/Superteam-Ireland-Telegram-Bot)**  
-**Bounty Winner** — AI-powered support system to organise, retrieve and surface community information efficiently. Implemented semantic search and automated content updates for fast, accurate responses. Deployed and maintained cloud-hosted services with structured logging.  
+**WINNER · $100 USDC** — AI-powered support system to organise, retrieve and surface community information efficiently. Implemented semantic search and automated content updates for fast, accurate responses. Deployed and maintained cloud-hosted services with structured logging.  
 `Python` `FastAPI` `FAISS` `GCP VM`
 
 ---
