@@ -14,7 +14,7 @@
 > models explain themselves, and code survives in production level.
 
 ---
-- name: git-profile-koi
-  uses: yalongwastaken/git-koi@v1.0.2
+name: git-profile-koi
+uses: yalongwastaken/git-koi@v1.0.2
   
 ✨ *Still learning. Still building. Occasionally refactoring life along with code.*
