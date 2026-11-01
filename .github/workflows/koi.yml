@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: yalongwastaken/git-koi@v1
+      - uses: yalongwastaken/git-koi@v1.0.2
         with:
           body: white
           output-dir: koi
@@ -32,4 +32,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit --quiet --message "koi: draw the day's koi"
+          git pull --rebase --quiet
           git push --quiet
