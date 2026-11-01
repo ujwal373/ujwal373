@@ -15,14 +15,4 @@
 
 ---
 
-## 🎵 Now Playing  
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dqi422ofkigzpxbr7i4uzqwd5u&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dqi422ofkigzpxbr7i4uzqwd5u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
-  </a>
-</p>
-
-
-
 ✨ *Still learning. Still building. Occasionally refactoring life along with code.*
