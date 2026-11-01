@@ -7,8 +7,11 @@
 </p>
 
 <p align="center">
+<img src="koi/koi.gif" width="256" alt="My koi" />
+</p>
+
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ujwal373&title=Profile%20Views" alt="Profile Views"/>
-  <img src="koi/koi.gif" width="256" alt="My koi" />
 </p>
 
 > I enjoy building systems where data makes decisions,
