@@ -8,11 +8,10 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ujwal373&title=Profile%20Views" alt="Profile Views"/>
+  <img src="koi/koi.gif" width="256" alt="My koi" />
 </p>
 
 > I enjoy building systems where data makes decisions,
 > models explain themselves, and code survives in production level.
-
-<img src="koi/koi.gif" width="256" alt="My koi" />
   
 ✨ *Still learning. Still building. Occasionally refactoring life along with code.*
