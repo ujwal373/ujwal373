@@ -13,8 +13,6 @@
 > I enjoy building systems where data makes decisions,
 > models explain themselves, and code survives in production level.
 
----
-name: git-profile-koi
-uses: yalongwastaken/git-koi@v1.0.2
+<img src="koi/koi.gif" width="256" alt="My koi" />
   
 ✨ *Still learning. Still building. Occasionally refactoring life along with code.*
